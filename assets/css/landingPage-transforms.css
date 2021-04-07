@@ -1,9 +1,13 @@
-.text-transform {
-	transition: all ease-in 0.5s;
-}
+
 .text-transform:hover {
   transform: scale(1.1);
 }
-.text-transform:active {
-  font-size: 40px;
+
+.text-transform{
+  transition: ease-in;
+}
+
+.text-transform:active{
+  font-size: xx-large;
+
 }
