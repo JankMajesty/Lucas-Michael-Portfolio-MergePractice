@@ -1,0 +1,10 @@
+.text-transform{
+  transition: ease-in;
+}
+
+.text-transform:hover{
+  transform: scale(2);
+}
+.text-transform:active{
+  font-size: xx-large;
+}
