@@ -1,10 +1,13 @@
+
+.text-transform:hover {
+  transform: scale(1.1);
+}
+
 .text-transform{
   transition: ease-in;
 }
 
-.text-transform:hover{
-  transform: scale(2);
-}
 .text-transform:active{
   font-size: xx-large;
+
 }
