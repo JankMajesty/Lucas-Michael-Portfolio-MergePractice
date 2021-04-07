@@ -1,7 +1,6 @@
 /*- 1 - BASE --- */
 
 /* Helper Classes */
-
 .clearfix:after {
 	content: "";
 	display: table;
